@@ -1,0 +1,35 @@
+<html>
+<meta charset="utf-8">
+    <head>
+        <img src="bg.png" height="50%" width="100%"></>
+        <h1 style="color:rgb(253, 253, 253);" align="center">Find Fut</h1>
+        <img src="foto.png" height="30%" width="15%" align="left"></>
+        <title>Landing Page Cescusc</title>
+    </head>
+ 
+    <body style="background-color:rgb(170, 145, 2);">
+        <h2 style="color:rgb(255, 255, 255);" align="center">Ideia</h2>
+       
+            <p style="color:rgb(255, 255, 255);" align="center">Organizar Jogos de futebol</p>
+ 
+            <p style="color:rgb(255, 255, 255);" align="center"> Com inituito de facilitar a vida do jogadores de futebol do fim de semana o Find Fut nasceu para te ajudar </p>
+ 
+            <br></br>
+ 
+        <h2 style="color:rgb(255, 255, 255);" align="center"> Problema </h2>
+           
+            <p style="color:rgb(255, 255, 255);" align="center">Para os jogadores ávidos daquele futebolzinho no fim de semana , eu tenho certeza que você já passou pelo mesmo problema que eu, falta de jogadores, falta de organização e muitos outros na hora de jogar aquela bolinha no final de semana. Tendo em vista isso, foi criado o Find Fut o facilitador do futebol do final de semana.</p>
+ 
+            <h2 style="color:rgb(255, 255, 255);" align="center"> Nicho  </h2>
+
+            <p style="color:rgb(255, 255, 255);" align="center">Jogadores Casuais ou não do futebolzinho no final de semana. </h2>
+
+    </body>
+ 
+    <footer>
+        <p style="color:rgb(255, 255, 255);"> Feito por: Thauan Matheus</p>
+        <p style="color:rgb(255, 255, 255);"> E-mail: <a style="color:white;" href="Thauanmatheus@hotmail.com"> Thauanmatheus@hotmail.com </a> </p>
+ 
+ 
+    </footer>
+</html>
